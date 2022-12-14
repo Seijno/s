@@ -29,7 +29,7 @@
       <div class="container">
         <div class="row justify-conent-center">
           <div class="col-12 text-center"><h3></h3></div>
-          <!-- Hier komt content -->
+          <!-- Hier komt content. -->
         </div>
       </div>
     </section>
