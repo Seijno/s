@@ -5,6 +5,17 @@ body{
     background: red;
     position: fixed;
 }
-a{
+#header a{
    text-decoration: none;
+   color: white;
+}
+#footer{
+    background:red;
+    text-decoration: none;
+}
+#footer h6{
+    color: white;
+}
+#footer a{
+    text-decoration: none;
 }
